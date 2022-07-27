@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "DcBdSbSQyAWARCH6k2asGDQwZuARaVTJ9GCJ0YpjydcTDctPkU7mY39iYYrwsInt8waM8tJ7NNBOGXyFn9jvAg==",
+  "dgSpecHash": "INXC/cE29ERK9VE2UzJSFdKpsKVpLrUDaNCO6ahjP00rf4WhkoeFDoD46dBn4KM5QbDBpVAtjgLBj6RRfix1AA==",
   "success": true,
   "projectFilePath": "/Users/steveblythe/Documents/ccg-trader-hub/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/steveblythe/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.data.sqlite.core/6.0.7/microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore/6.0.7/microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.7/microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.7/microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.design/6.0.7/microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.7/microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.7/microsoft.entityframeworkcore.sqlite.6.0.7.nupkg.sha512",
     "/Users/steveblythe/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.7/microsoft.entityframeworkcore.sqlite.core.6.0.7.nupkg.sha512",
