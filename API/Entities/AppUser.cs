@@ -7,8 +7,12 @@ namespace API.Entities
 {
     public class AppUser
     {
-        public Guid Id { get; private set; } = Guid.Empty;
+        public string id { get; private set; } = string.Empty;
 
         public string UserName { get; private set; } = string.Empty;
+
+        public byte[]? PasswordHash { get; private set; }
+
+        public byte[]? PasswordSalt { get; private set; }
     }
 }
